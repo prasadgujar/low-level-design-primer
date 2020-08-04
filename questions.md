@@ -41,3 +41,68 @@
   - redo() – redo last command
   
    expected the textpad to be in memory(not as file) and also  expected to handle error gracefully and the program to be menu driven.
+- Design Car Rental System like Zoomcar.
+- Design a billing and auctioning system similar to EBay.
+  Ebay is a multinational e-commerce corporation, facilitating online consumer-to-consumer and business-to-consumer sales. The website is free to use for buyers, but sellers are charged fees for listing items and again when those items are sold. The sellers aution their items and buyers bid on items.
+- Design Q&A application as in Amazon,Walmart has it for each product.
+- Design push notification :
+  - Which sends the notification to the registered users
+  - Which receives an event from promotions team
+  - Sends notification to iOS, android or sends an email or all three
+- Design a suggestion system
+- Design and Implement a Simple Java GC (Java 7+)
+  - A heap which represents JVM when a Java program starts.
+  - At least three parts in the heap that represent Eden Space, Tenured Space and Perm Space.
+  - Different rounds of garbage collecting in these above three spaces (checking all objects to see if they have any live references at all, if not, kill them, reclaim the allocated memory, otherwise, move them to later spaces..)
+- Design LinkedIn.
+- Design a video upload system for a user with low network bandwidth
+  
+  User has to upload video which is more than 1GB. Users network bandwidth is too low. Network get dropped after 50% upload. User tries again and same thing happens. Now to design an optimized efficient solution to address this issue.
+- Design Learning Management System 
+-  Design Survey similar to Google Forms / SurveyMonkey.
+- Design Logging Framework
+- Design a locker
+  
+  To monitor the process of how to put the package into a right locker. and one locker for one package. your package and locker have different size, you need to make sure the locker size > package.
+- Design a calendar Application (similar like Google Calendar)
+   -Ability to create, update, delete an Event
+     - An event would typically consist of {start, end, location, Owner, user-list, title}.
+     - Events can either be like meetings(with a dedicated location and appropriate guest-list) or as well be like holidays, birthdays, reminders etc.
+     - An event once created, can be either accepted or rejected by the constituent users - if neither it should be in neutral state.
+  - Get Calendar for a user Ui
+  - Get Event details.
+  - For a given set of users[U1, U2,....Un] identity a common free slot of time.
+
+- Design Guitar Inventory System
+- Desing Payment System
+- Design a stock trading system
+- Design Payment Gateway like Razorpay.
+- Design a Json Parser from scratch
+  - It is coming from untrusted source (meaning validation of json is required)
+  - the key will always be string the value can be string or another key value pair.
+  - Sample input {'abc':{'d':'ef','r':'er'}} -- map.get("abc").get("d") should return "ef".
+  - No other type i.e. integer or boolean or array in the json
+  - Validation and parsing must in done simultaneously
+  - In case of invalid json string throw exception
+- Design Chat Based application like whatsapp/wechat.
+- Design a home automation sytem to remotely control all the switches, devices in a home. 
+- Design Maps Navigator Client for different transportation types
+   - Design a maps path-building navigator client.
+   - User should be able to build path from point A to point B using your code.
+   - design should support different transportation methods for example: walk, car, bus, bike.
+ - Design Meeting Scheduler
+    - Here there are n given meeting rooms. Book a meeting in any meeting room at given interval(starting time, end time). Also send notifications to all person who are invited for meeting.
+    - You should use calender for tracking date and time. And also history of all the meetings which are booked and meeting room.
+write an API for client who will give date and time and API should return meeting room with booked scheduled time. client should also query for history of last 20 booked meetings.
+    - Is meeting room available? etc
+ - Design and Implement a logger library that applications can use to log messages.
+- Design a configuration management system
+  - User should be able to add configuration
+  - User should be able to delete configuration
+  - User should be able to search for configuration
+  - User should be able to subscribe to Configuration So that any updates in configuration will gets notfied to user
+- Design Amazon comments filtering system
+- Design a Vending Machine
+  - Add items to the vending machine in fixed number of slots
+  - Payment using card or cash
+  - Select item to dispense
