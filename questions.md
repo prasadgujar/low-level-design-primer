@@ -106,3 +106,19 @@ write an API for client who will give date and time and API should return meetin
   - Add items to the vending machine in fixed number of slots
   - Payment using card or cash
   - Select item to dispense
+-  Design Splitwise.
+- Design Mock Interview System like pramp.
+- Design Application Tracking System (ATS) like greenhouse
+- Design a Logistics System
+- Design CSV parser
+- Design message queueing system
+  - Create your own queue that will hold messages in form of JSON. Standard library queues were not allowed.
+  - There was one publisher that can generate messages.
+  - There are mutiple suscribers that will listen messages satisfying a particular regex.
+  - Suscribers should not be tighly coupled to system and can be added or removed at runtime.
+  - When a suscriber is added to the system, it registers callback function along with it. And this callback function will be invoked in case some message arrives.
+  - There can be dependency relationship among suscribers i.e if there are two suscribers say A and B and A knows that B has to listen and process first, then only A can listen and process. There was many to many dependency relationship among suscribers.
+   - There must a retry mechanism for handling error cases when some exception occurs in listening/ processing messages, that must be retried.
+- Design Employee Management Platform which includes payroll,IT,employee benefits and all other employee operations in one place.
+- Design User Engagment platform.
+-  Design product experience platform like pendo.
