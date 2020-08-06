@@ -121,4 +121,24 @@ write an API for client who will give date and time and API should return meetin
    - There must a retry mechanism for handling error cases when some exception occurs in listening/ processing messages, that must be retried.
 - Design Employee Management Platform which includes payroll,IT,employee benefits and all other employee operations in one place.
 - Design User Engagment platform.
--  Design product experience platform like pendo.
+- Design product experience platform like pendo.
+- Design Chess Game.
+- Design Live Auction platform for IPL / EPL.
+- Design Unit Testing Application
+- Design Browser testing Application like browserstack / sauce labs.
+- Design Real time collaboration application for the teams.
+- Design Visual workplace for remote teams.
+- Design Online UML Diagram Tool like lucidchart.
+- Design Parking Lot.
+- Design online audio/video file downloader.
+- Design Inventory System.
+- Design Warehouse Management System.
+- Design Game Streaming platform.
+- Design Real-Time Translation platform.
+- Design Community based discussion platform.
+- Design application for restaurant / malls to efficiently handle waiting queue and optimizely assign the table.
+- Design online assesment platform for exam's like gre / tofel.
+- Design online customer verifaction platform for digital on-boarding(KYC) of the users for bank and others client's.
+- Design Secure Content Management platform.
+- Design Freelancing hiring platform.
+- Design monitoring and alert system for the production as well and other enviroments.
