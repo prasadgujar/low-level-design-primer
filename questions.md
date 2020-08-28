@@ -142,3 +142,11 @@ write an API for client who will give date and time and API should return meetin
 - Design Secure Content Management platform.
 - Design Freelancing hiring platform.
 - Design monitoring and alert system for the production as well and other enviroments.
+- Design digital-video KYC (know your customer) verification system.
+- Design online e-fiiling online income tax returns service.
+- Design job posting system dedicated to blue and grey collar workers. (multiple langs / native lang)
+- Design System Simiar to the Product-hunt (share and discover new products)
+- Design service like Clipboard. (try to store the maximum clips)
+- Design system for salary info,comparsion and other info similar to the glassdoor salary / salarry.level.
+- Design pricing / product comparision system.
+
