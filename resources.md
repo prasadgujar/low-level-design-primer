@@ -17,7 +17,7 @@
  - [LLD](https://www.youtube.com/watch?v=Hb6WePtPQhg&list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)
  - [LogicMojo](https://www.youtube.com/channel/UCvEbA5RN5YLeOwYLXwC-jhg)
  - [Object Oriented Design patterns](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
- - [System Design Mock Interview's] (https://www.youtube.com/watch?v=nD8jvIzNTxM&list=PLHNJ91XSF3wzT6BaLVi4WbnuHcfZSXMek)
+ - [System Design Mock Interview's](https://www.youtube.com/watch?v=nD8jvIzNTxM&list=PLHNJ91XSF3wzT6BaLVi4WbnuHcfZSXMek)
  - [Udit Agarwal](https://www.youtube.com/channel/UClsDOM_9oudXbaXK85wWAOQ)
  - [codeKarle](https://www.youtube.com/channel/UCZEfiXy7PmtVTezYUvc4zZw)
  - [Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
