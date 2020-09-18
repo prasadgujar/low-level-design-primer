@@ -35,7 +35,7 @@ Credits and sources are provided throughout this repo.
 
 Special thanks to:
 - [Donne Martin](https://github.com/donnemartin/)
-- [Systesm Design Primer](https://github.com/donnemartin/system-design-primer)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Cracking the Coding Interview](https://www.careercup.com/)
 - [Leetcode](https://leetcode.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
