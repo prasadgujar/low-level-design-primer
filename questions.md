@@ -149,4 +149,6 @@ write an API for client who will give date and time and API should return meetin
 - Design service like Clipboard. (try to store the maximum clips)
 - Design system for salary info,comparsion and other info similar to the glassdoor salary / salarry.level.
 - Design pricing / product comparision system.
-
+- Design Virtual Event Platform for Communities / Enterprise.
+- Design system for short video/content sharing like Tiktok.
+- Design Short Story Telling (Text/Images) platform like Terribly Tiny Tales.
