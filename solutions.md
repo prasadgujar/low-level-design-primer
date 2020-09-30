@@ -2,7 +2,6 @@
 
 Question | Solutions | Videos 
 | :---:   | :-: | :-: 
-|Design Cricket Scoring Backend (CricBuzz / Cricinfo)|[Solution-1](https://github.com/gopalbala/cric-score) | [Video-1](https://youtu.be/ZTZaUYFqLNw)  | 
 |Design True caller |[Solution-1](https://github.com/gopalbala/truecaller) | [Video-1](https://www.youtube.com/watch?v=3KSLh_hvwtQ)  | 
 |Design Snake and Ladder Game| [Solution-1](https://github.com/gopalbala/snake-and-ladder) [Soluton-2](https://workat.tech/machine-coding/article/how-to-design-snake-and-ladder-machine-coding-ehskk9c40x2w#:~:text=%2D%20The%20board%20will%20have%20100,random%20number%20on%20rolling%20it.&text=%2D%20After%20the%20dice%20roll%2C%20if,contains%20some%20snakes%20and%20ladders.) | [Video-1](https://www.youtube.com/watch?v=5LDfqzXwxxU&t=2041s) [Video-2](https://www.youtube.com/watch?v=OutDY_ICb80)|  | 
 |Design Bill Sharing/Expense Sharing like Splitwise| [Solution-1](https://github.com/gopalbala/billsharing)  [Solution-2](https://workat.tech/machine-coding/article/how-to-design-splitwise-machine-coding-ayvnfo1tfst6)| [Video-1](https://www.youtube.com/watch?v=2Fz_LQJuq7s) 
@@ -23,7 +22,7 @@ Question | Solutions | Videos
  | Design Maps Navigator Client for different transportation types (OOD)| [Solution-1](https://leetcode.com/discuss/interview-question/object-oriented-design/508056/OOD-Design-Maps-Navigator-Client-for-different-transportation-types)| -
  | Design a Json Parser from scratch | [Solution-1](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/) [Solution-2](https://www.infoq.com/articles/HIgh-Performance-Parsers-in-Java-V2/)[Solution-3](https://notes.eatonphil.com/writing-a-simple-json-parser.html) | -
  |Design Elevator | [Solution-1](https://medium.com/system-designing-interviews/design-a-elevator-system-fc5832ca0b8b) [Solution-2](https://leetcode.com/discuss/interview-question/object-oriented-design/124660/ood-design-elevator) [Solution-3](https://massivetechinterview.blogspot.com/2015/07/thought-works-object-oriented-design.html)
-| CricInfo/Cricbuzz |[Solution-1](https://github.com/naval41/Low-Level-Design/tree/master/CricketPortal/src/com/codemate/cric)| [Video-1](https://www.youtube.com/watch?v=VDqwCo6lhkY&list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd&index=6)
+| CricInfo/Cricbuzz |[Solution-1](https://github.com/naval41/Low-Level-Design/tree/master/CricketPortal/src/com/codemate/cric) [Solution-2](https://github.com/gopalbala/cric-score)| [Video-1](https://www.youtube.com/watch?v=VDqwCo6lhkY&list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd&index=6) [Video-2](https://youtu.be/ZTZaUYFqLNw) 
 | TikTok| - | [Video-1](https://www.youtube.com/watch?v=vpa2vQdF-AI&t=2031s)
 | Pinterest | - | [Video-1](https://www.youtube.com/watch?v=TlkTbkM69ns)
 | Uber Eats/ Door dash/ Swiggy| - | [Video-1](https://www.youtube.com/watch?v=LePt0PUKIjE&list=PLHNJ91XSF3wzT6BaLVi4WbnuHcfZSXMek&index=5)
