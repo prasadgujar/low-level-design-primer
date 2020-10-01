@@ -26,3 +26,4 @@ Question | Solutions | Videos
 | TikTok| - | [Video-1](https://www.youtube.com/watch?v=vpa2vQdF-AI&t=2031s)
 | Pinterest | - | [Video-1](https://www.youtube.com/watch?v=TlkTbkM69ns)
 | Uber Eats/ Door dash/ Swiggy| - | [Video-1](https://www.youtube.com/watch?v=LePt0PUKIjE&list=PLHNJ91XSF3wzT6BaLVi4WbnuHcfZSXMek&index=5)
+| Movie Ticket Booking | [Solution-1](https://github.com/anomaly2104/ticket-booking-low-level-system-design) | [Video-1](https://www.youtube.com/playlist?list=PL564gOx0bCLpAL7yMJqOuK3_hBuLkyRhn)
