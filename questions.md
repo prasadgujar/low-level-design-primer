@@ -152,3 +152,8 @@ write an API for client who will give date and time and API should return meetin
 - Design Virtual Event Platform for Communities / Enterprise.
 - Design system for short video/content sharing like Tiktok.
 - Design Short Story Telling (Text/Images) platform like Terribly Tiny Tales.
+- Design URL Shortener like TinyURL.
+- Given a list of millions of documents, how would you find all documents that contain a list of words? The words
+can appear in any order, but they must be complete words. That is, "book" does not match "bookkeeper."
+- Design a system like Pastebin, where a user can enter a piece of text and get a randomly
+generated URL to access it. 
