@@ -9,7 +9,7 @@ Question | Solutions | Videos
 | Design Vehicle / Car Rental Application like Zoomcar | [Solution-1](https://github.com/gopalbala/carrental)| [Video-1](https://www.youtube.com/watch?v=kQ8MwyESL_k&t=4542s) 
 | Design Distributed Id Generation like Twitter Snowflake id | [Solution-1](https://github.com/gopalbala/distributed-idgen)| [Video-1](https://www.youtube.com/watch?v=ubxRZx-T2Bc)
 | Implement a logger | [Solution-1](https://github.com/coding-parrot/projects/blob/master/java-projects/src/main/java/logger/LogClient.java) | [Video-1](https://www.youtube.com/watch?v=FKA2KgkkcqY)
-| Cab Booking like Uber, Ola | [Solution-1](https://github.com/anomaly2104/lld-cab-booking-ola-uber-grab-lyft) | [Video-1](https://www.youtube.com/watch?v=Yn7C0x5ozx4&t=3s)
+| Cab Booking like Uber, Ola | [Solution-1](https://github.com/anomaly2104/lld-cab-booking-ola-uber-grab-lyft) [Solution-2](https://github.com/amarlearning/ride-sharing-low-level-design/)  | [Video-1](https://www.youtube.com/watch?v=Yn7C0x5ozx4&t=3s)
 | Design Parking lot system | [Solution-1](https://github.com/anomaly2104/lld-parking-lot) [Solution-2](https://github.com/gopalbala/parkinglot) | [Video-1](https://www.youtube.com/watch?v=7IX84K9g23U) [Video-2](https://www.youtube.com/watch?v=nnpT0WXifLk) 
 | Design Chess Game | [Solution-1](https://github.com/anomaly2104/chess-low-level-system-design) [Solution-2](https://www.geeksforgeeks.org/design-a-chess-game/)  | [Video-1](https://www.youtube.com/watch?v=RVHNcng0oF0) [Video-2](https://www.youtube.com/watch?v=yBsWza2039o)
 | Design Cache system | [Solution-1](https://github.com/anomaly2104/cache-low-level-system-design) | [Video-1](https://www.youtube.com/watch?v=B7iCXl_KSoM) 
