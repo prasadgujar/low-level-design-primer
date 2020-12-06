@@ -152,3 +152,16 @@ write an API for client who will give date and time and API should return meetin
 - Design Virtual Event Platform for Communities / Enterprise.
 - Design system for short video/content sharing like Tiktok.
 - Design Short Story Telling (Text/Images) platform like Terribly Tiny Tales.
+- Design a user activity tracking system for user on mobile.
+- Design in-memory (Questions like write to add,remove the table,etc).
+- Design a login API which is secure even if SSL certification is compromised.
+- How to design an API whose response will have the response from 3 other different microservices.
+- Design system which exposes two APIs: 
+    1) Save Numbers : which takes N integers and saves in backend 
+    2) GetMedian: Returns median of the numbers stored so far. [Most Frequent Op]
+- Design a torrent service, end to end.
+- Design system like Bigbasket (local retailer's).
+- Design a limit order book for trading system.
+- Design a Cache Mechanism.
+- Design a personal stock / investment protfolio system.
+- Design a electronic signature system like DocuSign / EasySign.
