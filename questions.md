@@ -165,3 +165,10 @@ write an API for client who will give date and time and API should return meetin
 - Design a Cache Mechanism.
 - Design a personal stock / investment protfolio system.
 - Design a electronic signature system like DocuSign / EasySign.
+- Design a generic coupon/promocode system.
+  - Coupon can give minimum Z% off upto X amount  (with or without min cart size)
+  - Coupon can give flat discount of X (with or without min cart size)
+  - Coupon can be applicable for one/few/all customers
+  - Coupon can be applicable on one/few/all merchants
+  - Coupon can be used only one time/few time/everytime. 
+
