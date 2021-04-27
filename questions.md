@@ -106,12 +106,12 @@ write an API for client who will give date and time and API should return meetin
   - Add items to the vending machine in fixed number of slots
   - Payment using card or cash
   - Select item to dispense
--  Design Splitwise.
+- [Design Splitwise](https://workat.tech/machine-coding/practice/splitwise-problem-0kp2yneec2q2).
 - Design Mock Interview System like pramp.
 - Design Application Tracking System (ATS) like greenhouse
 - Design a Logistics System
 - Design CSV parser
-- Design message queueing system
+- [Design message queueing system](https://workat.tech/machine-coding/practice/design-distributed-queue-cuudq0sk0v14)
   - Create your own queue that will hold messages in form of JSON. Standard library queues were not allowed.
   - There was one publisher that can generate messages.
   - There are mutiple suscribers that will listen messages satisfying a particular regex.
@@ -122,14 +122,14 @@ write an API for client who will give date and time and API should return meetin
 - Design Employee Management Platform which includes payroll,IT,employee benefits and all other employee operations in one place.
 - Design User Engagment platform.
 - Design product experience platform like pendo.
-- Design Chess Game.
+- [Design Chess Game](https://workat.tech/machine-coding/practice/design-chess-validator-to77d8oqpx2h).
 - Design Live Auction platform for IPL / EPL.
 - Design Unit Testing Application
 - Design Browser testing Application like browserstack / sauce labs.
 - Design Real time collaboration application for the teams.
 - Design Visual workplace for remote teams.
 - Design Online UML Diagram Tool like lucidchart.
-- Design Parking Lot.
+- [Design Parking Lot](https://workat.tech/machine-coding/practice/design-parking-lot-qm6hwq4wkhp8).
 - Design online audio/video file downloader.
 - Design Inventory System.
 - Design Warehouse Management System.
@@ -162,7 +162,7 @@ write an API for client who will give date and time and API should return meetin
 - Design a torrent service, end to end.
 - Design system like Bigbasket (local retailer's).
 - Design a limit order book for trading system.
-- Design a Cache Mechanism.
+- [Design a Cache Mechanism](https://workat.tech/machine-coding/practice/design-key-value-store-6gz6cq124k65).
 - Design a personal stock / investment protfolio system.
 - Design a electronic signature system like DocuSign / EasySign.
 - Design a generic coupon/promocode system.
@@ -171,4 +171,4 @@ write an API for client who will give date and time and API should return meetin
   - Coupon can be applicable for one/few/all customers
   - Coupon can be applicable on one/few/all merchants
   - Coupon can be used only one time/few time/everytime. 
-
+- [Design a Library Management System](https://workat.tech/machine-coding/practice/design-library-management-system-jgjrv8q8b136)
