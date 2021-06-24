@@ -172,3 +172,36 @@ write an API for client who will give date and time and API should return meetin
   - Coupon can be applicable on one/few/all merchants
   - Coupon can be used only one time/few time/everytime. 
 
+- Design of a quizzing app. 
+- Design a system (initially one node/server) that could handle requests on the scale of millions. It should return a unique id for each request (The id   should be unique in sense that there would be only one such id ever generated).
+- Order-Management-System-or-System-Design.
+- Implementation of Kafka.
+- Design and Implement Rocksdb.
+- Design and Develop the Zookeeper using Rocksdb and Google's BigTable.
+- Developing a message queueing system.
+  - Create your own queue that will hold messages in the form of JSON(Standard library with queue implementation were not allowed).
+  - There can be more than one queue at any given point of time.
+  - There will be one publisher that can generate messages to a queue.
+  - There are multiple subscribers that will listen to queues for messages.
+  - Subscribers should not be tightly coupled to the system and can be added or removed at runtime.
+  - When a subscriber is added to the system, It registers a callback function which makes an API call to the given end point with the json payload, this       callback function will be invoked in case some message arrives.
+  - Subscriber can consume the messages in batches if the queue has more than one message and it should be configurable.
+  - There must be a retry mechanism for handling error cases when some exception occurs in listening/processing a message, that must be retried.
+- Design a service to view/add/remove viewers of a document (like the feature in google doc).
+- Design an Online Auction.
+  - An auction is initiated by a seller and consists of a single product. It starts from 0$ and buyers can keep bidding(always at least current_winner + a      predefined increment) until it expires.
+  - The seller can define a reserve price. Its presence is visible, but the actual amount is not. If defined and the final bid is less than the reserve        price, the auction will fail with a separate status.
+  - Bidders might also make use of an autobidding system. Given a maximum value, each time the user is outbid, the system will automatically try to bid on      behalf of the user with the smallest value possible(the predefined increment above will be used to reach this value; calculation must strictly follow      it), up until the maximum value has been reached.
+  - The autobidding algorithm must be efficient time complexity wise.
+  - Once an auction completes, an external system will be notified of the result together with the winner(if any).  
+- Design for storing chemicals with their constituents in an efficiently retrievable format.
+- Design and Architecture - Appointment booking for a hospital where each doctor can open slots independently of any time period.
+- Design Online Exam Portal.
+  - On exam completion total score and subject wise score calculation (make sure u consider negative marking).
+  - On exam completion Rank calculation.
+  - Provision for MOCK tests (users should get hypothetical ranks by comparing previous year results)
+  - A pre-exam (with limited users ~10k) to mimic actual exam and then give generalised ranks for more users(in millions).
+- Build the Google Stock Wizard. 
+- Design the Food Ordering System like Swiggy/Zomato.
+- Design the Bill Summary Feature.
+ 
