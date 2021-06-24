@@ -204,4 +204,11 @@ write an API for client who will give date and time and API should return meetin
 - Build the Google Stock Wizard. 
 - Design the Food Ordering System like Swiggy/Zomato.
 - Design the Bill Summary Feature.
- 
+- Design Learning app (Design system where teachers can upload the content and stuedents can view that content.)
+  - Teachers should be notified once their content is uploaded.
+  - Upload should continue even if browser is closed in case it is a browser upload. 
+- Design Navigation Alerts System. (Similar like Google Map Functionality.)
+-  Design a system which improves the quality of the data. 
+   - A system which takes a large amount of data, cleans it, adds specified properties to it and sends the results so that the other services can filter the data with the newly added properties.  
+
+- 
