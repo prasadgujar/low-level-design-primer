@@ -171,6 +171,8 @@ write an API for client who will give date and time and API should return meetin
   - Coupon can be applicable for one/few/all customers
   - Coupon can be applicable on one/few/all merchants
   - Coupon can be used only one time/few time/everytime. 
+- Design a messenger like application which supports both 1-1 and 1-n(groups) messaging
+  - Expose 2 APIs i.e., sendMessage()(can be to an individual or a group) and getMessage()(List all the messages in that chat, again can be in a personal chat or in a group)
 
 - Design of a quizzing app. 
 - Design a system (initially one node/server) that could handle requests on the scale of millions. It should return a unique id for each request (The id   should be unique in sense that there would be only one such id ever generated).
