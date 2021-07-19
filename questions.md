@@ -211,4 +211,10 @@ write an API for client who will give date and time and API should return meetin
 -  Design a system which improves the quality of the data. 
    - A system which takes a large amount of data, cleans it, adds specified properties to it and sends the results so that the other services can filter the data with the newly added properties.  
 
-- 
+- Design an online dating application.(You have to create an online dating application. Every active user account will have location, age and gender information. The application should show users their potential matches in order of relevance. The ordering of relevance will be following: 
+Gender : Opposite gender to be given higher priority. 
+Proximity: Nearer matches should be given more priority. Use euclidean distance for computing distance between two locations 
+Age: Less the age difference should be given more priority.)
+
+
+
