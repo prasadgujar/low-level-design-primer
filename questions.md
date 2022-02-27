@@ -211,4 +211,114 @@ write an API for client who will give date and time and API should return meetin
 -  Design a system which improves the quality of the data. 
    - A system which takes a large amount of data, cleans it, adds specified properties to it and sends the results so that the other services can filter the data with the newly added properties.  
 
-- 
+- Design a Plagiarism checker.
+- Design a distributed Cache.
+- Design a business rule based engine.
+- Design Authentication/Authorization Service which supports(otp,OAuth, etc.).
+- Design a SMS validator system.
+- Design(HLD) Zipkin - A request tracing system for distributed applications. Example - A request is flowing through multiple microservices, system   should be able to trace the time spent by the request and sequence followed by it. 
+- Design Ads system for a website.
+- Design an online code judge.
+- Design Splunk like log manager system supporting queries with filters on last min, hr, day, week etc.
+- Design Linkedin Suggest connections feature.
+- Implement a wide column store like Cassandra (bonus : support secondary indexes).
+- Create an online music recommendation system which suggests songs according to user taste.
+   - Application has two major things :
+         - The songs, which are cataloged in the app’s data store. Songs can be described by attributes such as genre, tempo, singer.
+         - The people : Each person has a playlist of songs that they can choose to play from.
+
+          - Design a system that recommends a set of songs from our music library to the user based on his preferences (matching genre / singer/ tempo)             taking into account his current playlist.
+          - Pick a song based on the following order:
+          - One which matches with maximum matching attributes.
+          - When only one attribute is matching, pick one in the following order : genre > singer > tempo.
+          - To decide priority between two genres\singer\tempo, consider the number of songs in each category in the user's playlist to decide which               song gets more priority. One with a higher number of songs gets high priority. If the number of songs are the same, show in any order. 
+          - 
+- Design a test taking website type service where user can register/login,
+  - give the test and can see their past test score and rankings. 
+  - Test can be of multiple types and questions in test can be of multiple type (mcq, yes/no, fill in the blanks, multiple correct options) with the questions can being both image and direct string. 
+  - Questions should be unique to every user in a particular test and in case of user being dropped from the test (bad internet or anything) he can resume the test from where he left provided he came before his test timer was off.
+- Design a service for showing HeatMap of Swiggy / Zomato agents at a time.
+- Design Webhook Dispatcher.
+- Implement service to Find the recently viewed listings on the website by the user. Example a user looked for hotels in Bangalore. Design a system responsible to return the recent listings for a user.
+- Design a Jackpot Machine.
+- Designing a ID card system which employees use to access any zone/premises.
+- Design a Bar Graph Library.
+- Notification Service design. 
+  - Design a notification service for swiggy which takes in a list of users and message and notifies them . Users could be of different types like         delivery men , swiggy employees, end user of App.
+- Gym Managment System.
+  - Design a backend system for a new enterprise application that Flipkart is launching, FlipFit.
+    Flipkart is partnering up with gyms across Bangalore to enter into the fitness space. For the Beta launch the requirements are as follows:
+      - There are only 2 centers for now - Koramangala and Bellandur. We might expand to multiple others if we get traction.
+        Each center has 6 slots. 3 in the morning of an hour each from 6am to 9am and similarly 3 in the evening from 6pm to 9pm. The centers are open.         7 days a week.
+      - Each slot at a center can have only 2 possible workout variations for now - Weights and Cardio.
+      - The number of people that can attend each workout at each slot for a given station is fixed. Assume default slot capacity as 3(for every               workout type across centers).
+      - Same User cannot book at the same center at the same slot and the same workout type twice.
+      - User can perform the following operations:
+      - Register onto the platform
+      - View the workouts for a particular day
+      - Book a workout for a user if seats are available in that time slot at that center
+      - View his/her plan based on day as input
+      - For simplicity’s sake you can assume that the workout info will be entered by the Admin only once.
+
+      - Bonus : Build an Admin view as well to modify the workout info at a center/slot level.
+-  Design an concurrent History tracking system where we can store and track history of registered entities. We should be able to onboard service and      their entities to our system and start tracking changes being made to them.
+-  Design a scheduler, that takes in 10 scheduling requests at a time and can execute 100 jobs at a time.(The scheduler executes http requests.)
+-  Design a system which keeps track of leaders for some contest. Like referrals leader.
+-  Design a key value store and an Index. 
+-  Design an analytics to display machines which have valid certificates,Design the system with valid dashboard with all the machines with good/bad        certificates.
+-  Design a service that calls any passed endpoint at a fixed interval.
+-  Design System where User can create alerts on StockOptions.
+   - Raise an Alert When "APPL" stock transaction happens for more than $100.
+   - Raise an Alert When "GOOGL" stock transaction happens for less than $40.
+   - ou have one black-box Api say market-api
+
+   - you can call for particular stockoption and data will keep on flowing for that stockoption in form of say json , and will keep on flowing ; like below json
+
+				{
+					string company;// Apple
+					double price; // 134.22
+					int nb_shares;//100
+					long timestamp;//24542212
+				},...
+    
+- Design a UUID generator.
+  - Design a system that is incrementally scallable upto 1000 unique ID requests per second each by 1000 devices per person, for every human on the earth for 100 years.
+  - Consider:
+
+          10^10 - number of people on the planet
+          10^10 - number of second in 100 years
+          10^7 - max requests per second per server serviceable.
+- Design a scalable weather service that pulls data from an API.
+- You are required to implement an in-memory cache module/library which you will embed in your application to improve the application performance, by holding heavily accessed (read/written) application specific objects. To start, we would begin with following minimal requirements.
+   - Your cache module should be generic, re-usable and easy to integrate across various modules within your production/organization.
+
+   - The cache will be bounded by a fixed capacity (number of items) for holding the objects, which will be mentioned during early initialization of the p        program.
+
+   - Upon hitting the capacity, the cache module can invoke one of various cache eviction strategies to make room for newer objects. You are required to          incorporate cache eviction in your code to handle aforementioned condition.
+
+   - You could choose to implement various cache eviction strategies such as 'Least recently used', 'Least frequently used', 'time based expiration'et.al
+
+   - In one of our unique use cases, we would like to change the eviction policy of the cache during runtime and the cache should start evicting keys based on the new eviction policy set.
+
+- Design library management system. 
+  - Any library member should be able to search books by their title, author, subject category as well by the publication date.
+
+  - Each book will have a unique identification number and other details including a rack number which will help to physically locate the book.
+
+  - There could be more than one copy of a book, and library members should be able to check-out and reserve any copy. We will call each copy of a book, a book item.
+
+ - The system should be able to retrieve information like who took a particular book or what are the books checked-out by a specific library member.
+
+ - There should be a maximum limit (5) on how many books a member can check-out.
+
+ - There should be a maximum limit (10) on how many days a member can keep a book.
+
+ - The system should be able to collect fines for books returned after the due date.
+
+ - Members should be able to reserve books that are not currently available.
+
+ - The system should be able to send notifications whenever the reserved books become available, as well as when the book is not returned within the due date.
+
+ - Each book and member card will have a unique barcode. The system will be able to read barcodes from books and members’ library cards.
+
+-  Design an API rate limiter.
