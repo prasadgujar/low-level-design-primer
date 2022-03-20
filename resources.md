@@ -7,8 +7,8 @@
 - Patterns of Enterprise Application Architecture
 - Design Patterns: Elements of Reusable Object-Oriented Software
 
-## OOD Github link 
-- https://github.com/tssovi/grokking-the-object-oriented-design-interview
+## Github link (Educative.io)
+- [Object Oriented Design](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
 
 ## Blogs
 - [Design Patterns](https://refactoring.guru/design-patterns)
