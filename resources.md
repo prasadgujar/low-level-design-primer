@@ -12,6 +12,7 @@
 - [Design Patterns and Refactoring ](https://sourcemaking.com/)
 
 ## Youtube Channels
+ - [The Tech Granth] (https://www.youtube.com/c/TheTechGranth/)
  - [G Balasubramanian](https://www.youtube.com/channel/UC_IqEMqPPHoOYi4rTjyRkbA)
  - [The Code Mate(LLD)](https://www.youtube.com/watch?v=GCTEVZjxznc&list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd)
  - [LLD](https://www.youtube.com/watch?v=Hb6WePtPQhg&list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)
