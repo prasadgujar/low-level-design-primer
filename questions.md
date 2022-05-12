@@ -265,6 +265,7 @@ write an API for client who will give date and time and API should return meetin
 -  Design a scheduler, that takes in 10 scheduling requests at a time and can execute 100 jobs at a time.(The scheduler executes http requests.)
 -  Design a system which keeps track of leaders for some contest. Like referrals leader.
 -  Design a key value store and an Index. 
+-  Design an ATM.
 -  Design an analytics to display machines which have valid certificates,Design the system with valid dashboard with all the machines with good/bad        certificates.
 -  Design a service that calls any passed endpoint at a fixed interval.
 -  Design System where User can create alerts on StockOptions.
