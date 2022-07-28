@@ -13,6 +13,7 @@ This repo is an organized collection of resources to help you learn low level de
 - Low level Design [Questions](https://github.com/prasadgujar/low-level-design-primer/blob/master/questions.md)
 - Low level Design [Solutions](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
 - Low Level Design [Resources](https://github.com/prasadgujar/low-level-design-primer/blob/master/resources.md) #TODO
+- Low Level Design [Technical Interview Guide](https://www.interviewbit.com/low-level-design-interview-questions/)
 ## Contributing
 Feel free to submit pull requests to help:
 
