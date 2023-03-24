@@ -322,3 +322,28 @@ write an API for client who will give date and time and API should return meetin
  - Each book and member card will have a unique barcode. The system will be able to read barcodes from books and members’ library cards.
 
 -  Design an API rate limiter.
+
+
+
+
+-  The purpose of the problem is to implemente an in-memory SQL-like database with the following set of operations / functionality:
+
+It should be possible to create or delete tables in a database given their name
+A table definition comprises columns which have types. You must check for these types in the operations below. 
+It should be possible to insert records in a table and the records should be validated:
+The string type can have a maximum length of 20 characters and the int type can have a minimum value of -1024 and a maximum value of 1023.
+It should be possible to print all records in a table.
+It should be possible to filter and display records whose column values match a given value (equality)
+
+
+If you have time:
+
+Support for mandatory fields (tagging a column as required)
+Queries for multiple fields at the same time.
+
+
+Rules:
+
+Speak your mind
+Google if you need to, just let me know
+The purpose of the problem is not to write SQL, or to create an actual database, just an in-memory database, with the data structures the programming language you choose provides you.
