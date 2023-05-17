@@ -29,6 +29,7 @@
   - price
   
   You need to output list of stocks in the following format sell_id, buy_id, quantity, price which will get executed. 
+  
 - code a TextPad with following functionality:
   - display() – to display the entire content
   - display(n, m) – to display from line n to m
@@ -322,3 +323,5 @@ write an API for client who will give date and time and API should return meetin
  - Each book and member card will have a unique barcode. The system will be able to read barcodes from books and members’ library cards.
 
 -  Design an API rate limiter.
+-  Design an investing platform like Groww.
+   - It should have all the necessary functionality.
