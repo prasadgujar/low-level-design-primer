@@ -12,6 +12,7 @@
 - [Design Patterns and Refactoring ](https://sourcemaking.com/)
 
 ## Youtube Channels
+ - [Low Level Design and Design Patterns](https://www.youtube.com/watch?v=5fdKUzfMk4E&list=PL6Gb7nO-kso4eaeWbgTT7Jp7Yj3zm1s87)
  - [G Balasubramanian](https://www.youtube.com/channel/UC_IqEMqPPHoOYi4rTjyRkbA)
  - [The Code Mate(LLD)](https://www.youtube.com/watch?v=GCTEVZjxznc&list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd)
  - [LLD](https://www.youtube.com/watch?v=Hb6WePtPQhg&list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7)
