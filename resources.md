@@ -10,6 +10,7 @@
 ## Blogs
 - [Design Patterns](https://refactoring.guru/design-patterns)
 - [Design Patterns and Refactoring ](https://sourcemaking.com/)
+- [Workattech LLD Blog](https://workat.tech/machine-coding)
 
 ## Youtube Channels
  - [G Balasubramanian](https://www.youtube.com/channel/UC_IqEMqPPHoOYi4rTjyRkbA)
