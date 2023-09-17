@@ -307,18 +307,18 @@ write an API for client who will give date and time and API should return meetin
 
   - There could be more than one copy of a book, and library members should be able to check-out and reserve any copy. We will call each copy of a book, a book item.
 
- - The system should be able to retrieve information like who took a particular book or what are the books checked-out by a specific library member.
+  - The system should be able to retrieve information like who took a particular book or what are the books checked-out by a specific library member.
 
- - There should be a maximum limit (5) on how many books a member can check-out.
+  - There should be a maximum limit (5) on how many books a member can check-out.
 
- - There should be a maximum limit (10) on how many days a member can keep a book.
+  - There should be a maximum limit (10) on how many days a member can keep a book.
 
- - The system should be able to collect fines for books returned after the due date.
+  - The system should be able to collect fines for books returned after the due date.
 
- - Members should be able to reserve books that are not currently available.
+  - Members should be able to reserve books that are not currently available.
 
- - The system should be able to send notifications whenever the reserved books become available, as well as when the book is not returned within the due date.
+  - The system should be able to send notifications whenever the reserved books become available, as well as when the book is not returned within the due date.
 
- - Each book and member card will have a unique barcode. The system will be able to read barcodes from books and members’ library cards.
+  - Each book and member card will have a unique barcode. The system will be able to read barcodes from books and members’ library cards.
 
 -  Design an API rate limiter.
