@@ -30,3 +30,31 @@ Question | Solutions | Videos
 | Movie Ticket Booking | [Solution-1](https://github.com/anomaly2104/ticket-booking-low-level-system-design) | [Video-1](https://www.youtube.com/playlist?list=PL564gOx0bCLpAL7yMJqOuK3_hBuLkyRhn)|
 | Uber Eats/ Door dash/ Swiggy| [Solution-1](https://github.com/mayankbansal93/lld-food-delivery-zomato-swiggy) | [Video-1](https://www.youtube.com/watch?v=LePt0PUKIjE&list=PLHNJ91XSF3wzT6BaLVi4WbnuHcfZSXMek&index=5)
 | e-Commerce Review System| [Solution-1](https://github.com/gopalbala/reviews) | [Video-1](https://www.youtube.com/watch?v=bKiCkExbe-Y)
+| Design Lift/Elevator | [Solution-1](https://lldcoding.com/design-lld-lift-machine-coding) | -
+| Design 2048 Game | [Solution-1](https://lldcoding.com/design-lld-2048-game-machine-coding) | -
+| Design Splitwise | [Solution-1](https://lldcoding.com/design-lld-splitwise-application-machine-coding) | -
+| Design AWS Lambda | [Solution-1](https://lldcoding.com/design-lld-aws-lambda-machine-coding) | -
+| Design Game Engine | [Solution-1](https://lldcoding.com/design-lld-game-engine-like-unreal-machine-coding) | -
+| Design Newsletter Service | [Solution-1](https://lldcoding.com/design-lld-newsletter-service-machine-coding) | -
+| Design Gmail | [Solution-1](https://lldcoding.com/design-lld-gmail-machine-coding) | -
+| Design Whatsapp | [Solution-1](https://lldcoding.com/design-lld-whatsapp-messenger-machine-coding) | -
+| Design Event Calender | [Solution-1](https://lldcoding.com/design-lld-event-calendar-machine-coding) | -
+| Design Tinder | [Solution-1](https://lldcoding.com/design-lld-tinder-dating-app-machine-coding) | -
+| Design Zoom | [Solution-1](https://lldcoding.com/design-lld-a-video-conferencing-application-like-zoom-machine-coding) | -
+| Design Google Doc | [Solution-1](https://lldcoding.com/design-lld-a-real-time-collaborative-document-editing-platform-like-google-docs-machine-coding) | -
+| Design Mentorship Platform | [Solution-1](https://lldcoding.com/design-lld-mentorship-platform-like-preplaced-machine-coding) | -
+| Design CryptoCurrency Exchange | [Solution-1](https://lldcoding.com/design-lld-a-cryptocurrency-exchange-platform-machine-coding) | -
+| Design Food Delivery App | [Solution-1](https://lldcoding.com/design-lld-a-system-for-online-food-ordering-and-delivery-like-zomato-machine-coding) | -
+| Design Codepair Platform | [Solution-1](https://lldcoding.com/design-lld-pair-programming-platform-like-hackerrank-codepair-machine-coding) | -
+| Design Chat System | [Solution-1](https://lldcoding.com/design-lld-a-real-time-chat-system-with-support-for-millions-of-concurrent-users-machine-coding) | -
+| Design Dropbox | [Solution-1](https://lldcoding.com/design-lld-a-file-sharing-system-like-dropbox-machine-coding) | -
+| Design Music Recognition System | [Solution-1](https://lldcoding.com/design-lld-a-music-recognition-system-using-audio-fingerprinting-machine-coding) | -
+| Design Spotify | [Solution-1](https://lldcoding.com/implement-a-music-streaming-service-like-spotify-machine-coding) | -
+| Design Bittorrent | [Solution-1](https://lldcoding.com/design-lld-a-peer-to-peer-file-sharing-system-like-bittorrent-machine-coding) | -
+| Design Distributed Search | [Solution-1](https://lldcoding.com/design-lld-distributed-search-engine-machine-coding) | -
+| Design Google Maps | [Solution-1](https://lldcoding.com/design-lld-google-maps-machine-coding) | -
+| Design Twitter/X | [Solution-1](https://lldcoding.com/design-lld-twitter-machine-coding) | -
+| Design Blockchain | [Solution-1](https://lldcoding.com/design-lld-blockchain-machine-coding) | -
+| Design Video Streaming | [Solution-1](https://lldcoding.com/design-lld-video-streaming-platform-machine-coding) | -
+| Design Spotify | [Solution-1](https://lldcoding.com/implement-a-music-streaming-service-like-spotify-machine-coding) | -
+| Design Bittorrent | [Solution-1](https://lldcoding.com/design-lld-a-peer-to-peer-file-sharing-system-like-bittorrent-machine-coding) | -
